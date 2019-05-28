@@ -4,7 +4,7 @@
   "description": "Simple Fake API",
   "main": "main.js",
   "scripts": {
-    "start": "json-server --watch ./database.json",
+    "start": "json-server --watch ./datastore.json --routes routes.json",
     "start-auth": "node server.js"
   },
   "author": "ME:)",

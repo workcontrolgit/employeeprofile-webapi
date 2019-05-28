@@ -4,12 +4,13 @@ const jsonServer = require('json-server')
 const jwt = require('jsonwebtoken')
 
 const server = jsonServer.create()
-const router = jsonServer.router('./database.json')
+const router = jsonServer.router('./datastore.json')
 const userdb = JSON.parse(fs.readFileSync('./users.json', 'UTF-8'))
 
 server.use(bodyParser.urlencoded({extended: true}))
 server.use(bodyParser.json())
 server.use(jsonServer.defaults());
+server.use('/api', router)
 
 const SECRET_KEY = '123456789'
 
@@ -43,15 +44,31 @@ server.post('/auth/login', (req, res) => {
   res.status(200).json({access_token})
 })
 
+server.get('/authorize', (req, res) => {
+  var guid = createGuid();
+  const fake_token = {
+    aud: 'http://localhost:4200',
+    iss: 'HR/EX/SDD',
+    jti: guid,
+    nbf: 1558919776,
+    role: 'developer',
+    sub: 'NguyenFD',
+    unique_name: 'WASHDC\\NguyenFD',
+  };
+
+  const access_token = createToken(fake_token)
+  res.status(200).json({access_token})
+})
+
 server.use(/^(?!\/auth).*$/,  (req, res, next) => {
-  if (req.headers.authorization === undefined || req.headers.authorization.split(' ')[0] !== 'Bearer') {
-    const status = 401
-    const message = 'Error in authorization format'
-    res.status(status).json({status, message})
-    return
-  }
+  // if (req.headers.authorization === undefined || req.headers.authorization.split(' ')[0] !== 'Bearer') {
+  //   const status = 401
+  //   const message = 'Error in authorization format'
+  //   res.status(status).json({status, message})
+  //   return
+  // }
   try {
-     verifyToken(req.headers.authorization.split(' ')[1])
+     // verifyToken(req.headers.authorization.split(' ')[1])
      next()
   } catch (err) {
     const status = 401
@@ -59,6 +76,13 @@ server.use(/^(?!\/auth).*$/,  (req, res, next) => {
     res.status(status).json({status, message})
   }
 })
+
+function createGuid(){  
+  function S4() {  
+     return (((1+Math.random())*0x10000)|0).toString(16).substring(1);  
+  }  
+  return (S4() + S4() + "-" + S4() + "-4" + S4().substr(0,3) + "-" + S4() + "-" + S4() + S4() + S4()).toLowerCase();  
+} 
 
 server.use(router)
 
