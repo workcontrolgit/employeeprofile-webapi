@@ -48,12 +48,12 @@ server.get('/authorize', (req, res) => {
   var guid = createGuid();
   const fake_token = {
     aud: 'http://localhost:4200',
-    iss: 'HR/EX/SDD',
+    iss: 'HR',
     jti: guid,
     nbf: 1558919776,
     role: 'developer',
-    sub: 'NguyenFD',
-    unique_name: 'WASHDC\\NguyenFD',
+    sub: 'applepie',
+    unique_name: 'XYZ\\applepie',
   };
 
   const access_token = createToken(fake_token)
