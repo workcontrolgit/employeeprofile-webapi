@@ -31,6 +31,8 @@ function isAuthenticated({email, password}){
   return userdb.users.findIndex(user => user.email === email && user.password === password) !== -1
 }
 
+var port = process.env.OPENSHIFT_NODEJS_PORT || '3000';
+var ip = process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1';
 
 server.post('/auth/login', (req, res) => {
   const {email, password} = req.body
@@ -86,6 +88,8 @@ function createGuid(){
 
 server.use(router)
 
-server.listen(3000, () => {
+server.listen(port, ip, () => {
   console.log('Run Auth API Server')
 })
+
+// server.listen(port, ip);
