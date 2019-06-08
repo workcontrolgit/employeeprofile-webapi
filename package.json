@@ -2,7 +2,7 @@
   "name": "json-server-api",
   "version": "1.0.0",
   "description": "Simple Fake API",
-  "main": "main.js",
+  "main": "server.js",
   "scripts": {
     "start": "json-server --watch ./datastore.json --routes routes.json",
     "start-auth": "node server.js"
