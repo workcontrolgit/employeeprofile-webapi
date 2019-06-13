@@ -31,8 +31,11 @@ function isAuthenticated({email, password}){
   return userdb.users.findIndex(user => user.email === email && user.password === password) !== -1
 }
 
-var port = process.env.OPENSHIFT_NODEJS_PORT || '3000';
-var ip = process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1';
+// var port = process.env.OPENSHIFT_NODEJS_PORT || '3000';
+// var ip = process.env.OPENSHIFT_NODEJS_IP || '0.0.0.0';
+
+var port = process.env.PORT || '3000';
+
 
 server.post('/auth/login', (req, res) => {
   const {email, password} = req.body
@@ -88,8 +91,13 @@ function createGuid(){
 
 server.use(router)
 
-server.listen(port, ip, () => {
-  console.log('Run Auth API Server')
-})
+// server.listen(port, ip, () => {
+//   console.log('Run Auth API Server at ' + ip + ':' + port)
+// })
+
+// Up and Running at Port 4000
+server.listen(port, () => {
+  console.log('A GraphQL API running at port 4000');
+});
 
 // server.listen(port, ip);
