@@ -581,7 +581,7 @@
       "awd_ssn": "XXXXXXXXX",
       "awd_effective_date": "2003-09-12T00:00:00",
       "awd_action_reason_code": "I02",
-      "awd_action_reason_desc": "EXTRA MILE AWARD"
+      "awd_action_reason_desc": "EXTRA MILE REWARD"
     },
     {
       "awd_per_seq_num": 0,
@@ -589,7 +589,7 @@
       "awd_ssn": "XXXXXXXXX",
       "awd_effective_date": "2009-12-11T00:00:00",
       "awd_action_reason_code": "I02",
-      "awd_action_reason_desc": "EXTRA MILE AWARD"
+      "awd_action_reason_desc": "EXTRA MILE REWARD"
     },
     {
       "awd_per_seq_num": 0,
@@ -605,7 +605,7 @@
       "awd_ssn": "XXXXXXXXX",
       "awd_effective_date": "2016-02-07T00:00:00",
       "awd_action_reason_code": "A07",
-      "awd_action_reason_desc": "HONOR - MERIT W/CASH"
+      "awd_action_reason_desc": "HONOR - MERIT W/GREEN"
     },
     {
       "awd_per_seq_num": 0,
@@ -613,7 +613,7 @@
       "awd_ssn": "XXXXXXXXX",
       "awd_effective_date": "2004-04-29T00:00:00",
       "awd_action_reason_code": "A07",
-      "awd_action_reason_desc": "HONOR - MERIT W/CASH"
+      "awd_action_reason_desc": "HONOR - MERIT W/GREEN"
     },
     {
       "awd_per_seq_num": 0,
@@ -621,7 +621,7 @@
       "awd_ssn": "XXXXXXXXX",
       "awd_effective_date": "2006-06-05T00:00:00",
       "awd_action_reason_code": "A07",
-      "awd_action_reason_desc": "HONOR - MERIT W/CASH"
+      "awd_action_reason_desc": "HONOR - MERIT W/GREEN"
     },
     {
       "awd_per_seq_num": 0,
@@ -656,7 +656,7 @@
       "edu_gems_emplid": "999999",
       "edu_ssn": "XXXXXXXXX",
       "edu_school_code": "24025",
-      "edu_school_attended": "SOUTHEAST MO STATE UNIV",
+      "edu_school_attended": "PennState",
       "edu_major_code": "160901",
       "edu_major": "FRENCH LANGUAGE AND LITERATURE",
       "edu_degree_code": null,
@@ -830,7 +830,7 @@
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
       "trng_event_code": "EX250",
-      "trng_event_desc": "Counterintelligence Awareness",
+      "trng_event_desc": "Intelligence Agent",
       "trng_start_date": "2017-10-06T00:00:00",
       "trng_end_date": "2017-10-06T00:00:00"
     },
@@ -841,7 +841,7 @@
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
       "trng_event_code": "EX250",
-      "trng_event_desc": "Counterintelligence Awareness",
+      "trng_event_desc": "Intelligence Agent",
       "trng_start_date": "2016-10-12T00:00:00",
       "trng_end_date": "2016-10-12T00:00:00"
     },
@@ -863,7 +863,7 @@
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
       "trng_event_code": "EX250",
-      "trng_event_desc": "Counterintelligence Awareness",
+      "trng_event_desc": "Intelligence Agent",
       "trng_start_date": "2015-10-23T00:00:00",
       "trng_end_date": "2015-10-23T00:00:00"
     },
@@ -874,7 +874,7 @@
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
       "trng_event_code": "EX250",
-      "trng_event_desc": "Counterintelligence Awareness",
+      "trng_event_desc": "Intelligence Agent",
       "trng_start_date": "2014-11-04T00:00:00",
       "trng_end_date": "2014-11-04T00:00:00"
     },
