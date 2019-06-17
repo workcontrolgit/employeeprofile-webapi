@@ -20,7 +20,7 @@
     "sc_misc_code": "",
     "sc_ppl_code": "FP",
     "sc_grade_code": "03",
-    "sc_competition_text": "Information Management",
+    "sc_competition_text": "Information Mgmt",
     "sc_cw_prelim": "",
     "sc_class": "",
     "sc_f_brd": "P/05-55",
@@ -35,7 +35,7 @@
     "sc_misc_code": "",
     "sc_ppl_code": "FP",
     "sc_grade_code": "03",
-    "sc_competition_text": "Information Management",
+    "sc_competition_text": "Information Mgmt",
     "sc_cw_prelim": "",
     "sc_class": "",
     "sc_f_brd": "S/00-00",
@@ -50,7 +50,7 @@
     "sc_misc_code": "",
     "sc_ppl_code": "FP",
     "sc_grade_code": "03",
-    "sc_competition_text": "Information Management",
+    "sc_competition_text": "Information Mgmt",
     "sc_cw_prelim": "",
     "sc_class": "",
     "sc_f_brd": "R/59-71",
@@ -65,7 +65,7 @@
     "sc_misc_code": "",
     "sc_ppl_code": "FP",
     "sc_grade_code": "03",
-    "sc_competition_text": "Information Management",
+    "sc_competition_text": "Information Mgmt",
     "sc_cw_prelim": "",
     "sc_class": "",
     "sc_f_brd": "S/00-00",
@@ -80,7 +80,7 @@
     "sc_misc_code": "",
     "sc_ppl_code": "FP",
     "sc_grade_code": "03",
-    "sc_competition_text": "Information Management",
+    "sc_competition_text": "Information Mgmt",
     "sc_cw_prelim": "",
     "sc_class": "",
     "sc_f_brd": "S/00-00",
@@ -248,7 +248,7 @@
       "th_action_code": "HIR",
       "th_action_desc": "Hire",
       "th_action_reason_code": "FSG",
-      "th_action_reason_desc": "Foreign Service Gen",
+      "th_action_reason_desc": "Field Service Gen",
       "th_noa_code": "171",
       "th_noa_desc": "Exc Appt NTE",
       "th_legal_auth_code": "05",
@@ -283,7 +283,7 @@
       "prof_gender": "F",
       "prof_birth_date": "1979-08-29T00:00:00",
       "prof_birthstate": "IA",
-      "prof_birthcountry": "USA",
+      "prof_birthcountry": "USSR",
       "prof_marital_status_code": "M",
       "prof_status_code": "A",
       "prof_pay_plan_code": "FP",
@@ -291,16 +291,16 @@
       "prof_step": "08",
       "prof_grade_entry_date": "2013-11-03T00:00:00",
       "prof_skill_1": "9017",
-      "prof_skill_1_desc": "OFFICE MANAGEMENT",
+      "prof_skill_1_desc": "Oversea Mgmt",
       "prof_skill_2": " ",
       "prof_skill_2_desc": "",
       "prof_skill_3": " ",
       "prof_skill_3_desc": "",
-      "prof_foreign_service_date": "2002-09-22T00:00:00",
+      "prof_Field_service_date": "2002-09-22T00:00:00",
       "prof_service_date": "2002-09-22T00:00:00",
       "prof_tenure_code": 1,
       "prof_org_code": "214003",
-      "prof_org_short_desc": "AA/CDA/AD",
+      "prof_org_short_desc": "XX/CIA/AD",
       "prof_agency_code": "ST",
       "prof_subagency_code": "00",
       "prof_within_grade_inc_code": "228",
@@ -349,19 +349,19 @@
       "gemsasg_effective_date": "2002-09-22T00:00:00",
       "gemsasg_ssn": "XXXXXXXXX",
       "gemsasg_position_skill_code": "9017",
-      "gemsasg_skill_desc": "OFFICE MANAGEMENT",
+      "gemsasg_skill_desc": "Oversea Mgmt",
       "gemsasg_transfer_elig_date": "0001-01-01T00:00:00",
       "gemsasg_org_code": "298400",
-      "gemsasg_org_short_desc": "HR/FSSI",
+      "gemsasg_org_short_desc": "HCM/FSSI",
       "gemsasg_position_title_code": "99017001",
-      "gemsasg_position_title": "OFFICE MANAGEMENT SPECIALIST",
+      "gemsasg_position_title": "Oversea Mgmt Agent",
       "gemsasg_org_position_ttl_code": " ",
-      "gemsasg_org_position_title": "OFFICE MANAGEMENT SPECIALIST",
+      "gemsasg_org_position_title": "Oversea Mgmt Agent",
       "gemsasg_country_code": "TCD",
       "gemsasg_country_desc": "[IN TRANSIT]",
       "gemsasg_working_title": "",
       "gemsasg_manager_level": "8",
-      "gemsasg_key": "460912831HR/FSSIOFFICE MANAGEMENTOFFICE MANAGEMENT SPECIALIST298400S610640020020922",
+      "gemsasg_key": "460912831HCM/FSSIOversea MgmtOversea Mgmt Agent298400S610640020020922",
       "gemsasg_noa_code": "171"
     },
     {
@@ -371,10 +371,10 @@
       "gemsasg_effective_date": "2002-11-23T00:00:00",
       "gemsasg_ssn": "XXXXXXXXX",
       "gemsasg_position_skill_code": "9017",
-      "gemsasg_skill_desc": "OFFICE MANAGEMENT",
+      "gemsasg_skill_desc": "Oversea Mgmt",
       "gemsasg_transfer_elig_date": "0001-01-01T00:00:00",
       "gemsasg_org_code": "331901",
-      "gemsasg_org_short_desc": "KUALA LMPR",
+      "gemsasg_org_short_desc": "SAIGON LMPR",
       "gemsasg_position_title_code": "99017001",
       "gemsasg_position_title": "OMS (ECON)                    ",
       "gemsasg_org_position_ttl_code": "M11",
@@ -383,7 +383,7 @@
       "gemsasg_country_desc": "Malaysia",
       "gemsasg_working_title": "11/02 OMS (ECON)                    ",
       "gemsasg_manager_level": "8",
-      "gemsasg_key": "460912831KUALA LMPROFFICE MANAGEMENTOMS (ECON)OMS (ECON)3319012011300120021123",
+      "gemsasg_key": "460912831SAIGON LMPROversea MgmtOMS (ECON)OMS (ECON)3319012011300120021123",
       "gemsasg_noa_code": "721"
     },
     {
@@ -393,19 +393,19 @@
       "gemsasg_effective_date": "2005-01-03T00:00:00",
       "gemsasg_ssn": "XXXXXXXXX",
       "gemsasg_position_skill_code": "9017",
-      "gemsasg_skill_desc": "OFFICE MANAGEMENT",
+      "gemsasg_skill_desc": "Oversea Mgmt",
       "gemsasg_transfer_elig_date": "0001-01-01T00:00:00",
       "gemsasg_org_code": "322101",
       "gemsasg_org_short_desc": "MINSK",
       "gemsasg_position_title_code": "99017001",
-      "gemsasg_position_title": "OFFICE MANAGER",
+      "gemsasg_position_title": "Oversea MANAGER",
       "gemsasg_org_position_ttl_code": "M07",
       "gemsasg_org_position_title": "OMS (DCM)",
       "gemsasg_country_code": "BLR",
       "gemsasg_country_desc": "Belarus",
       "gemsasg_working_title": "01/05 OMS (DCM)                     ",
       "gemsasg_manager_level": "8",
-      "gemsasg_key": "460912831MINSKOFFICE MANAGEMENTOFFICE MANAGEROMS (DCM)3221010000501620050103",
+      "gemsasg_key": "460912831MINSKOversea MgmtOversea MANAGEROMS (DCM)3221010000501620050103",
       "gemsasg_noa_code": "721"
     },
     {
@@ -415,7 +415,7 @@
       "gemsasg_effective_date": "2008-02-22T00:00:00",
       "gemsasg_ssn": "XXXXXXXXX",
       "gemsasg_position_skill_code": "9017",
-      "gemsasg_skill_desc": "OFFICE MANAGEMENT",
+      "gemsasg_skill_desc": "Oversea Mgmt",
       "gemsasg_transfer_elig_date": "0001-01-01T00:00:00",
       "gemsasg_org_code": "330701",
       "gemsasg_org_short_desc": "CANBERRA",
@@ -427,7 +427,7 @@
       "gemsasg_country_desc": "Australia",
       "gemsasg_working_title": "02/08 OM (COM)                      ",
       "gemsasg_manager_level": "8",
-      "gemsasg_key": "460912831CANBERRAOFFICE MANAGEMENTOM (COM)OM (COM)3307010002100120080222",
+      "gemsasg_key": "460912831CANBERRAOversea MgmtOM (COM)OM (COM)3307010002100120080222",
       "gemsasg_noa_code": "721"
     },
     {
@@ -437,19 +437,19 @@
       "gemsasg_effective_date": "2009-04-22T00:00:00",
       "gemsasg_ssn": "XXXXXXXXX",
       "gemsasg_position_skill_code": "9017",
-      "gemsasg_skill_desc": "OFFICE MANAGEMENT",
+      "gemsasg_skill_desc": "Oversea Mgmt",
       "gemsasg_transfer_elig_date": "0001-01-01T00:00:00",
       "gemsasg_org_code": "214003",
-      "gemsasg_org_short_desc": "AA/CDA/AD",
+      "gemsasg_org_short_desc": "XX/CIA/AD",
       "gemsasg_position_title_code": "99017001",
-      "gemsasg_position_title": "OFFICE MANAGEMENT SPECIALIST",
+      "gemsasg_position_title": "Oversea Mgmt Agent",
       "gemsasg_org_position_ttl_code": " ",
-      "gemsasg_org_position_title": "OFFICE MANAGEMENT SPECIALIST",
-      "gemsasg_country_code": "USA",
-      "gemsasg_country_desc": "United States",
+      "gemsasg_org_position_title": "Oversea Mgmt Agent",
+      "gemsasg_country_code": "USSR",
+      "gemsasg_country_desc": "United Stars",
       "gemsasg_working_title": "",
       "gemsasg_manager_level": "8",
-      "gemsasg_key": "460912831AA/CDA/ADOFFICE MANAGEMENTOFFICE MANAGEMENT SPECIALIST214003S805820020090422",
+      "gemsasg_key": "460912831XX/CIA/ADOversea MgmtOversea Mgmt Agent214003S805820020090422",
       "gemsasg_noa_code": "721"
     },
     {
@@ -459,19 +459,19 @@
       "gemsasg_effective_date": "2011-05-30T00:00:00",
       "gemsasg_ssn": "XXXXXXXXX",
       "gemsasg_position_skill_code": "9017",
-      "gemsasg_skill_desc": "OFFICE MANAGEMENT",
+      "gemsasg_skill_desc": "Oversea Mgmt",
       "gemsasg_transfer_elig_date": "0001-01-01T00:00:00",
       "gemsasg_org_code": "328201",
       "gemsasg_org_short_desc": "ANKARA",
       "gemsasg_position_title_code": "99017002",
-      "gemsasg_position_title": "OFFICE MANAGER",
+      "gemsasg_position_title": "Oversea MANAGER",
       "gemsasg_org_position_ttl_code": " ",
-      "gemsasg_org_position_title": "OFFICE MANAGER",
+      "gemsasg_org_position_title": "Oversea MANAGER",
       "gemsasg_country_code": "TUR",
       "gemsasg_country_desc": "Turkey",
       "gemsasg_working_title": "",
       "gemsasg_manager_level": "8",
-      "gemsasg_key": "460912831ANKARAOFFICE MANAGEMENTOFFICE MANAGER3282015033800120110530",
+      "gemsasg_key": "460912831ANKARAOversea MgmtOversea MANAGER3282015033800120110530",
       "gemsasg_noa_code": "721"
     },
     {
@@ -481,19 +481,19 @@
       "gemsasg_effective_date": "2014-08-07T00:00:00",
       "gemsasg_ssn": "XXXXXXXXX",
       "gemsasg_position_skill_code": "2275",
-      "gemsasg_skill_desc": "HUMAN RESOURCES SUPPORT",
+      "gemsasg_skill_desc": "HUMAN RESEARCH SUPPORT",
       "gemsasg_transfer_elig_date": "0001-01-01T00:00:00",
       "gemsasg_org_code": "217000",
-      "gemsasg_org_short_desc": "HR/EX",
+      "gemsasg_org_short_desc": "HCM/EX",
       "gemsasg_position_title_code": "92203999",
-      "gemsasg_position_title": "HR ASSIGNMENTS TECH",
+      "gemsasg_position_title": "HCM ASSIGNMENTS TECH",
       "gemsasg_org_position_ttl_code": " ",
-      "gemsasg_org_position_title": "HR ASSIGNMENTS TECH",
-      "gemsasg_country_code": "USA",
-      "gemsasg_country_desc": "United States",
+      "gemsasg_org_position_title": "HCM ASSIGNMENTS TECH",
+      "gemsasg_country_code": "USSR",
+      "gemsasg_country_desc": "United Stars",
       "gemsasg_working_title": "",
       "gemsasg_manager_level": "8",
-      "gemsasg_key": "460912831HR/EXHUMAN RESOURCES SUPPORTHR ASSIGNMENTS TECH217000S811541020140807",
+      "gemsasg_key": "460912831HCM/EXHUMAN RESEARCH SUPPORTHCM ASSIGNMENTS TECH217000S811541020140807",
       "gemsasg_noa_code": "721"
     },
     {
@@ -503,19 +503,19 @@
       "gemsasg_effective_date": "2014-10-05T00:00:00",
       "gemsasg_ssn": "XXXXXXXXX",
       "gemsasg_position_skill_code": "2275",
-      "gemsasg_skill_desc": "HUMAN RESOURCES SUPPORT",
+      "gemsasg_skill_desc": "HUMAN RESEARCH SUPPORT",
       "gemsasg_transfer_elig_date": "0001-01-01T00:00:00",
       "gemsasg_org_code": "217200",
-      "gemsasg_org_short_desc": "HR/EX/IDSD",
+      "gemsasg_org_short_desc": "HCM/EX/IDSD",
       "gemsasg_position_title_code": "92203999",
-      "gemsasg_position_title": "HR ASSIGNMENTS TECH",
+      "gemsasg_position_title": "HCM ASSIGNMENTS TECH",
       "gemsasg_org_position_ttl_code": " ",
-      "gemsasg_org_position_title": "HR ASSIGNMENTS TECH",
-      "gemsasg_country_code": "USA",
-      "gemsasg_country_desc": "United States",
+      "gemsasg_org_position_title": "HCM ASSIGNMENTS TECH",
+      "gemsasg_country_code": "USSR",
+      "gemsasg_country_desc": "United Stars",
       "gemsasg_working_title": "",
       "gemsasg_manager_level": "8",
-      "gemsasg_key": "460912831HR/EX/IDSDHUMAN RESOURCES SUPPORTHR ASSIGNMENTS TECH217200S811541020141005",
+      "gemsasg_key": "460912831HCM/EX/IDSDHUMAN RESEARCH SUPPORTHCM ASSIGNMENTS TECH217200S811541020141005",
       "gemsasg_noa_code": "790"
     },
     {
@@ -525,19 +525,19 @@
       "gemsasg_effective_date": "2016-08-01T00:00:00",
       "gemsasg_ssn": "XXXXXXXXX",
       "gemsasg_position_skill_code": "2201",
-      "gemsasg_skill_desc": "HUMAN RESOURCES MANAGEMENT",
+      "gemsasg_skill_desc": "HUMAN RESEARCH Mgmt",
       "gemsasg_transfer_elig_date": "0001-01-01T00:00:00",
       "gemsasg_org_code": "214003",
-      "gemsasg_org_short_desc": "AA/CDA/AD",
+      "gemsasg_org_short_desc": "XX/CIA/AD",
       "gemsasg_position_title_code": "92201050",
       "gemsasg_position_title": "COUNSELLING & ASSIGNMENTS OFF",
       "gemsasg_org_position_ttl_code": " ",
       "gemsasg_org_position_title": "COUNSELLING & ASSIGNMENTS OFF",
-      "gemsasg_country_code": "USA",
-      "gemsasg_country_desc": "United States",
+      "gemsasg_country_code": "USSR",
+      "gemsasg_country_desc": "United Stars",
       "gemsasg_working_title": "",
       "gemsasg_manager_level": "8",
-      "gemsasg_key": "460912831AA/CDA/ADHUMAN RESOURCES MANAGEMENTCOUNSELLING & ASSIGNMENTS OFF214003S767880920160801",
+      "gemsasg_key": "460912831XX/CIA/ADHUMAN RESEARCH MgmtCOUNSELLING & ASSIGNMENTS OFF214003S767880920160801",
       "gemsasg_noa_code": "721"
     }
   ],
@@ -663,7 +663,7 @@
       "edu_degree_desc": "BACH OF ARTS",
       "edu_year_acquired": 2001,
       "edu_state": "MO",
-      "edu_country": "USA",
+      "edu_country": "USSR",
       "edu_effective_date": "2017-10-29T00:00:00"
     }
   ],
@@ -852,7 +852,7 @@
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
       "trng_event_code": "PA239",
-      "trng_event_desc": "Professional Tradecraft for HR",
+      "trng_event_desc": "Professional Tradecraft for HCM",
       "trng_start_date": "2016-09-12T00:00:00",
       "trng_end_date": "2016-09-16T00:00:00"
     },
@@ -896,7 +896,7 @@
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
       "trng_event_code": "PA192",
-      "trng_event_desc": "Position Management in GEMS",
+      "trng_event_desc": "Position Mgmt in GEMS",
       "trng_start_date": "2014-08-11T00:00:00",
       "trng_end_date": "2014-08-11T00:00:00"
     },
@@ -907,7 +907,7 @@
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
       "trng_event_code": "PS773",
-      "trng_event_desc": "MS Access 2010-MS Office Speci",
+      "trng_event_desc": "MS Access 2010-MS Oversea Speci",
       "trng_start_date": "2012-08-13T00:00:00",
       "trng_end_date": "2012-08-17T00:00:00"
     },
@@ -1533,7 +1533,7 @@
       "trng_ssn": "XXXXXXXXX",
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
-      "trng_event_code": "MOAACCA05",
+      "trng_event_code": "MOXXCCA05",
       "trng_event_desc": "Joins/SQL/Action Queries in Ac",
       "trng_start_date": "2012-07-28T00:00:00",
       "trng_end_date": "2012-07-28T00:00:00"
@@ -1566,7 +1566,7 @@
       "trng_ssn": "XXXXXXXXX",
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
-      "trng_event_code": "MOAACCA01",
+      "trng_event_code": "MOXXCCA01",
       "trng_event_desc": "Advanced Import/Export with Ac",
       "trng_start_date": "2012-07-28T00:00:00",
       "trng_end_date": "2012-07-28T00:00:00"
@@ -1577,7 +1577,7 @@
       "trng_ssn": "XXXXXXXXX",
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
-      "trng_event_code": "MOAACCA08",
+      "trng_event_code": "MOXXCCA08",
       "trng_event_desc": "Optimize/Secure/Share Access 2",
       "trng_start_date": "2012-07-28T00:00:00",
       "trng_end_date": "2012-07-28T00:00:00"
@@ -1588,7 +1588,7 @@
       "trng_ssn": "XXXXXXXXX",
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
-      "trng_event_code": "MOAACCA07",
+      "trng_event_code": "MOXXCCA07",
       "trng_event_desc": "Access 2010 Macros and VBA",
       "trng_start_date": "2012-07-28T00:00:00",
       "trng_end_date": "2012-07-28T00:00:00"
@@ -1610,7 +1610,7 @@
       "trng_ssn": "XXXXXXXXX",
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
-      "trng_event_code": "MOAACCA03",
+      "trng_event_code": "MOXXCCA03",
       "trng_event_desc": "Retrieve/Validate/Attach Data-",
       "trng_start_date": "2012-07-28T00:00:00",
       "trng_end_date": "2012-07-28T00:00:00"
@@ -1621,7 +1621,7 @@
       "trng_ssn": "XXXXXXXXX",
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
-      "trng_event_code": "MOAACCA02",
+      "trng_event_code": "MOXXCCA02",
       "trng_event_desc": "PivotTables and PivotCharts in",
       "trng_start_date": "2012-07-28T00:00:00",
       "trng_end_date": "2012-07-28T00:00:00"
@@ -1688,7 +1688,7 @@
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
       "trng_event_code": "PA239",
-      "trng_event_desc": "Professional Tradecraft for HR",
+      "trng_event_desc": "Professional Tradecraft for HCM",
       "trng_start_date": "2009-09-14T00:00:00",
       "trng_end_date": "2009-09-18T00:00:00"
     },
@@ -1853,7 +1853,7 @@
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
       "trng_event_code": "PD534",
-      "trng_event_desc": "FSN Crisis Management",
+      "trng_event_desc": "FSN Crisis Mgmt",
       "trng_start_date": "2003-09-04T00:00:00",
       "trng_end_date": "2003-09-04T00:00:00"
     },
@@ -1897,7 +1897,7 @@
       "trng_year": "0001-01-01T00:00:00",
       "trng_session": "",
       "trng_event_code": "PN106",
-      "trng_event_desc": "Orientation - Foreign Service",
+      "trng_event_desc": "Orientation - Field Service",
       "trng_start_date": "2002-09-23T00:00:00",
       "trng_end_date": "2002-10-11T00:00:00"
     }
@@ -1967,7 +1967,7 @@
           "gender": "male",
           "age": 45,
           "eyeColor": "brown",
-          "email": "carrilloparker@plasmox.com",
+          "email": "carrilloparker@plasmox.me",
           "phone": "+1 (961) 499-3122",
           "work": {
             "companyName": "PAWNAGRA",
@@ -1981,7 +1981,7 @@
           "gender": "female",
           "age": 50,
           "eyeColor": "brown",
-          "email": "leilaparker@pawnagra.com",
+          "email": "leilaparker@pawnagra.me",
           "phone": "+1 (876) 439-3417",
           "work": {
             "companyName": "ORBIN",
@@ -2002,7 +2002,7 @@
       },
       "bankAccount": {
         "opened": "2014-03-16T04:33:58 -02:00",
-        "balance": "$3,595.79",
+        "balance": "$0.79",
         "isActive": false
       },
       "notes": "Elit consectetur dolor qui sunt esse velit cupidatat Lorem esse est deserunt quis culpa. Cupidatat eiusmod pariatur officia cillum pariatur reprehenderit mollit nostrud est. Labore qui deserunt aliquip sit. Elit eiusmod magna laboris ut id voluptate in.\r\n"
@@ -2017,7 +2017,7 @@
           "gender": "male",
           "age": 41,
           "eyeColor": "green",
-          "email": "baldwinday@orbin.com",
+          "email": "baldwinday@orbin.me",
           "phone": "+1 (827) 554-3087",
           "work": {
             "companyName": "PROGENEX",
@@ -2031,7 +2031,7 @@
           "gender": "female",
           "age": 42,
           "eyeColor": "blue",
-          "email": "kimday@progenex.com",
+          "email": "kimday@progenex.me",
           "phone": "+1 (875) 539-3443",
           "work": {
             "companyName": "APEXTRI",
@@ -2076,7 +2076,7 @@
       },
       "bankAccount": {
         "opened": "2015-10-31T09:14:09 -02:00",
-        "balance": "$2,528.26",
+        "balance": "$0.26",
         "isActive": true
       },
       "notes": "Fugiat excepteur aliqua et aliqua minim dolor nulla officia voluptate ad qui laboris aliquip aute. Laborum irure et velit enim excepteur reprehenderit. Lorem fugiat quis non cupidatat deserunt aliqua adipisicing veniam minim incididunt proident est minim exercitation. Qui nisi cupidatat laborum nulla commodo irure. Anim dolor esse velit qui pariatur duis. Ut sit labore laboris nostrud tempor.\r\n"
@@ -2091,7 +2091,7 @@
           "gender": "female",
           "age": 32,
           "eyeColor": "green",
-          "email": "marinapugh@apextri.com",
+          "email": "marinapugh@apextri.me",
           "phone": "+1 (928) 516-2710",
           "work": {
             "companyName": "ENTHAZE",
@@ -2105,7 +2105,7 @@
           "gender": "male",
           "age": 57,
           "eyeColor": "green",
-          "email": "shepherdpugh@enthaze.com",
+          "email": "shepherdpugh@enthaze.me",
           "phone": "+1 (944) 504-3803",
           "work": {
             "companyName": "MEDICROIX",
@@ -2153,7 +2153,7 @@
       },
       "bankAccount": {
         "opened": "2016-09-15T01:50:39 -03:00",
-        "balance": "$2,388.51",
+        "balance": "$0.51",
         "isActive": true
       },
       "notes": "Eu elit officia non consequat nostrud sint minim culpa eu tempor aute proident esse. Ad tempor sit consectetur tempor eiusmod minim commodo enim reprehenderit amet. Labore cillum pariatur fugiat sint.\r\n"
@@ -2168,7 +2168,7 @@
           "gender": "male",
           "age": 43,
           "eyeColor": "brown",
-          "email": "manningsummers@medicroix.com",
+          "email": "manningsummers@medicroix.me",
           "phone": "+1 (981) 593-2692",
           "work": {
             "companyName": "OTHERWAY",
@@ -2182,7 +2182,7 @@
           "gender": "male",
           "age": 57,
           "eyeColor": "blue",
-          "email": "mooresummers@otherway.com",
+          "email": "mooresummers@otherway.me",
           "phone": "+1 (961) 478-3450",
           "work": {
             "companyName": "SHOPABOUT",
@@ -2242,7 +2242,7 @@
       },
       "bankAccount": {
         "opened": "2014-12-10T04:48:19 -02:00",
-        "balance": "$1,589.92",
+        "balance": "$0.92",
         "isActive": true
       },
       "notes": "Enim fugiat dolore et laborum fugiat eiusmod ut ea amet et aute velit voluptate irure. Est pariatur mollit ex anim quis nulla tempor exercitation. Non adipisicing exercitation sint officia nisi eu excepteur veniam cillum ipsum velit labore laborum. Est laboris nisi dolore tempor nostrud anim velit deserunt amet adipisicing in commodo. Qui est quis aute eu velit adipisicing id laborum quis laboris. Reprehenderit qui eiusmod id aliquip elit fugiat ad ad do culpa esse. Nulla nisi minim veniam sit.\r\n"
@@ -2257,7 +2257,7 @@
           "gender": "male",
           "age": 52,
           "eyeColor": "brown",
-          "email": "cainguthrie@shopabout.com",
+          "email": "cainguthrie@shopabout.me",
           "phone": "+1 (803) 512-3571",
           "work": {
             "companyName": "XPLOR",
@@ -2271,7 +2271,7 @@
           "gender": "male",
           "age": 40,
           "eyeColor": "brown",
-          "email": "deanguthrie@xplor.com",
+          "email": "deanguthrie@xplor.me",
           "phone": "+1 (991) 536-2213",
           "work": {
             "companyName": "BALUBA",
@@ -2325,7 +2325,7 @@
       },
       "bankAccount": {
         "opened": "2016-02-20T01:45:07 -02:00",
-        "balance": "$1,525.36",
+        "balance": "$0.36",
         "isActive": false
       },
       "notes": "Reprehenderit mollit laborum pariatur exercitation amet ex labore commodo excepteur occaecat eu consequat. Fugiat mollit incididunt dolor magna eu deserunt est elit culpa nulla Lorem est. Cillum irure commodo fugiat ut amet ex consequat excepteur et eu. Laborum eu excepteur laboris elit ex esse consequat id id culpa. Sunt anim minim nostrud ad sint ad. Ut cillum incididunt est veniam do nulla. Est laboris sint cupidatat est eiusmod Lorem ex adipisicing in minim consectetur.\r\n"
@@ -2340,7 +2340,7 @@
           "gender": "male",
           "age": 39,
           "eyeColor": "brown",
-          "email": "prestonwatkins@baluba.com",
+          "email": "prestonwatkins@baluba.me",
           "phone": "+1 (986) 510-2237",
           "work": {
             "companyName": "DARWINIUM",
@@ -2354,7 +2354,7 @@
           "gender": "male",
           "age": 32,
           "eyeColor": "green",
-          "email": "mccoywatkins@darwinium.com",
+          "email": "mccoywatkins@darwinium.me",
           "phone": "+1 (906) 498-2590",
           "work": {
             "companyName": "MOREGANIC",
@@ -2399,7 +2399,7 @@
       },
       "bankAccount": {
         "opened": "2016-03-07T02:31:41 -02:00",
-        "balance": "$1,032.92",
+        "balance": "$0.92",
         "isActive": false
       },
       "notes": "Aliqua pariatur veniam nulla tempor non qui dolore voluptate veniam eu. Aute eu reprehenderit dolor anim incididunt sit veniam. Dolore voluptate reprehenderit duis ad culpa pariatur laboris aute ipsum in. Deserunt sit commodo dolore sit voluptate sunt pariatur qui laborum occaecat.\r\n"
@@ -2414,7 +2414,7 @@
           "gender": "male",
           "age": 60,
           "eyeColor": "blue",
-          "email": "martinezhubbard@moreganic.com",
+          "email": "martinezhubbard@moreganic.me",
           "phone": "+1 (864) 507-2623",
           "work": {
             "companyName": "NETERIA",
@@ -2428,7 +2428,7 @@
           "gender": "female",
           "age": 32,
           "eyeColor": "blue",
-          "email": "jenniferhubbard@neteria.com",
+          "email": "jenniferhubbard@neteria.me",
           "phone": "+1 (887) 588-2997",
           "work": {
             "companyName": "ZILPHUR",
@@ -2486,7 +2486,7 @@
       },
       "bankAccount": {
         "opened": "2017-01-30T09:31:42 -02:00",
-        "balance": "$2,963.19",
+        "balance": "$0.19",
         "isActive": true
       },
       "notes": "Do nostrud magna proident in irure adipisicing veniam anim ullamco tempor ad commodo. Labore commodo cillum duis cillum tempor in mollit adipisicing pariatur qui. Dolore pariatur non aliquip deserunt fugiat sint occaecat. Cupidatat in in qui non occaecat enim ut do Lorem.\r\n"
@@ -2501,7 +2501,7 @@
           "gender": "female",
           "age": 39,
           "eyeColor": "blue",
-          "email": "raquelpittman@zilphur.com",
+          "email": "raquelpittman@zilphur.me",
           "phone": "+1 (957) 581-3223",
           "work": {
             "companyName": "TECHTRIX",
@@ -2515,7 +2515,7 @@
           "gender": "male",
           "age": 60,
           "eyeColor": "brown",
-          "email": "carrpittman@techtrix.com",
+          "email": "carrpittman@techtrix.me",
           "phone": "+1 (945) 400-2394",
           "work": {
             "companyName": "NIPAZ",
@@ -2590,7 +2590,7 @@
       },
       "bankAccount": {
         "opened": "2016-08-22T06:08:31 -03:00",
-        "balance": "$1,643.24",
+        "balance": "$0.24",
         "isActive": true
       },
       "notes": "Incididunt esse exercitation ipsum deserunt veniam aliqua nisi officia pariatur quis minim. Consequat consequat exercitation proident enim cillum enim tempor. Magna nostrud id eu veniam sit sunt nostrud laborum ex do eiusmod nisi ut. Ad anim ex adipisicing pariatur anim. Velit elit pariatur Lorem proident eiusmod id esse laborum ullamco esse labore ex.\r\n"
@@ -2605,7 +2605,7 @@
           "gender": "male",
           "age": 59,
           "eyeColor": "brown",
-          "email": "sawyerwynn@nipaz.com",
+          "email": "sawyerwynn@nipaz.me",
           "phone": "+1 (897) 442-2143",
           "work": {
             "companyName": "DAYCORE",
@@ -2619,7 +2619,7 @@
           "gender": "female",
           "age": 23,
           "eyeColor": "blue",
-          "email": "tammiwynn@daycore.com",
+          "email": "tammiwynn@daycore.me",
           "phone": "+1 (822) 514-3869",
           "work": {
             "companyName": "EXOTERIC",
@@ -2663,7 +2663,7 @@
       },
       "bankAccount": {
         "opened": "2014-06-29T05:18:05 -03:00",
-        "balance": "$3,720.17",
+        "balance": "$0.17",
         "isActive": false
       },
       "notes": "Sunt Lorem irure dolor do quis adipisicing dolore officia Lorem exercitation cillum cillum ut id. Elit aute irure esse eu reprehenderit nisi ad reprehenderit cupidatat ea consequat. Aliquip fugiat proident adipisicing magna anim qui. Enim pariatur commodo officia laborum sint laboris veniam occaecat esse velit elit laborum aliquip. Eu tempor officia nisi eiusmod nostrud qui laboris velit anim dolore. Ea in amet minim minim laboris adipisicing ea veniam ut commodo consectetur. Consectetur aliquip occaecat voluptate non aute.\r\n"
@@ -2678,7 +2678,7 @@
           "gender": "female",
           "age": 20,
           "eyeColor": "green",
-          "email": "ivyhead@exoteric.com",
+          "email": "ivyhead@exoteric.me",
           "phone": "+1 (809) 562-3277",
           "work": {
             "companyName": "GENEKOM",
@@ -2692,7 +2692,7 @@
           "gender": "female",
           "age": 55,
           "eyeColor": "brown",
-          "email": "helenhead@genekom.com",
+          "email": "helenhead@genekom.me",
           "phone": "+1 (878) 418-3185",
           "work": {
             "companyName": "AQUACINE",
@@ -2740,7 +2740,7 @@
           "gender": "female",
           "age": 23,
           "eyeColor": "blue",
-          "email": "cleobarrera@aquacine.com",
+          "email": "cleobarrera@aquacine.me",
           "phone": "+1 (964) 436-3018",
           "work": {
             "companyName": "ENERSAVE",
@@ -2754,7 +2754,7 @@
           "gender": "male",
           "age": 32,
           "eyeColor": "blue",
-          "email": "simpsonbarrera@enersave.com",
+          "email": "simpsonbarrera@enersave.me",
           "phone": "+1 (874) 481-2304",
           "work": {
             "companyName": "PROXSOFT",
@@ -2845,7 +2845,7 @@
           "gender": "male",
           "age": 57,
           "eyeColor": "green",
-          "email": "fergusonspencer@proxsoft.com",
+          "email": "fergusonspencer@proxsoft.me",
           "phone": "+1 (982) 517-2652",
           "work": {
             "companyName": "FLYBOYZ",
@@ -2859,7 +2859,7 @@
           "gender": "female",
           "age": 21,
           "eyeColor": "blue",
-          "email": "lottiespencer@flyboyz.com",
+          "email": "lottiespencer@flyboyz.me",
           "phone": "+1 (862) 429-3830",
           "work": {
             "companyName": "COMVERGES",
@@ -2922,7 +2922,7 @@
           "gender": "female",
           "age": 29,
           "eyeColor": "green",
-          "email": "naomihuff@comverges.com",
+          "email": "naomihuff@comverges.me",
           "phone": "+1 (948) 412-2655",
           "work": {
             "companyName": "VALREDA",
@@ -2936,7 +2936,7 @@
           "gender": "female",
           "age": 57,
           "eyeColor": "blue",
-          "email": "candicehuff@valreda.com",
+          "email": "candicehuff@valreda.me",
           "phone": "+1 (977) 481-3948",
           "work": {
             "companyName": "TURNABOUT",
@@ -3008,7 +3008,7 @@
           "gender": "female",
           "age": 31,
           "eyeColor": "blue",
-          "email": "luellabenson@turnabout.com",
+          "email": "luellabenson@turnabout.me",
           "phone": "+1 (928) 571-3735",
           "work": {
             "companyName": "ZORROMOP",
@@ -3022,7 +3022,7 @@
           "gender": "male",
           "age": 31,
           "eyeColor": "green",
-          "email": "jensenbenson@zorromop.com",
+          "email": "jensenbenson@zorromop.me",
           "phone": "+1 (917) 415-2215",
           "work": {
             "companyName": "MEDIFAX",
@@ -3099,7 +3099,7 @@
           "gender": "male",
           "age": 40,
           "eyeColor": "brown",
-          "email": "weavermeyer@medifax.com",
+          "email": "weavermeyer@medifax.me",
           "phone": "+1 (877) 536-3298",
           "work": {
             "companyName": "APPLIDECK",
@@ -3113,7 +3113,7 @@
           "gender": "female",
           "age": 37,
           "eyeColor": "green",
-          "email": "nataliameyer@applideck.com",
+          "email": "nataliameyer@applideck.me",
           "phone": "+1 (903) 551-3368",
           "work": {
             "companyName": "EMERGENT",
@@ -3173,7 +3173,7 @@
           "gender": "female",
           "age": 46,
           "eyeColor": "blue",
-          "email": "deannwhite@emergent.com",
+          "email": "deannwhite@emergent.me",
           "phone": "+1 (955) 446-2042",
           "work": {
             "companyName": "SLOGANAUT",
@@ -3187,7 +3187,7 @@
           "gender": "male",
           "age": 44,
           "eyeColor": "blue",
-          "email": "hayswhite@sloganaut.com",
+          "email": "hayswhite@sloganaut.me",
           "phone": "+1 (923) 535-3378",
           "work": {
             "companyName": "ELITA",
@@ -3235,7 +3235,7 @@
           "gender": "female",
           "age": 44,
           "eyeColor": "blue",
-          "email": "georginasanders@elita.com",
+          "email": "georginasanders@elita.me",
           "phone": "+1 (969) 549-2024",
           "work": {
             "companyName": "BICOL",
@@ -3249,7 +3249,7 @@
           "gender": "female",
           "age": 30,
           "eyeColor": "brown",
-          "email": "denisesanders@bicol.com",
+          "email": "denisesanders@bicol.me",
           "phone": "+1 (879) 431-2828",
           "work": {
             "companyName": "DIGIGEN",
@@ -3303,7 +3303,7 @@
           "gender": "female",
           "age": 48,
           "eyeColor": "brown",
-          "email": "deloresblankenship@digigen.com",
+          "email": "deloresblankenship@digigen.me",
           "phone": "+1 (904) 449-3245",
           "work": {
             "companyName": "HINWAY",
@@ -3317,7 +3317,7 @@
           "gender": "female",
           "age": 23,
           "eyeColor": "green",
-          "email": "deanneblankenship@hinway.com",
+          "email": "deanneblankenship@hinway.me",
           "phone": "+1 (905) 555-3896",
           "work": {
             "companyName": "DYMI",
@@ -3360,7 +3360,7 @@
           "gender": "male",
           "age": 21,
           "eyeColor": "green",
-          "email": "sykesstevenson@dymi.com",
+          "email": "sykesstevenson@dymi.me",
           "phone": "+1 (912) 545-2147",
           "work": {
             "companyName": "EYEWAX",
@@ -3374,7 +3374,7 @@
           "gender": "female",
           "age": 20,
           "eyeColor": "brown",
-          "email": "lucilestevenson@eyewax.com",
+          "email": "lucilestevenson@eyewax.me",
           "phone": "+1 (977) 598-2357",
           "work": {
             "companyName": "EVIDENDS",
@@ -3474,7 +3474,7 @@
           "gender": "male",
           "age": 32,
           "eyeColor": "green",
-          "email": "rhodesbowers@evidends.com",
+          "email": "rhodesbowers@evidends.me",
           "phone": "+1 (950) 592-3435",
           "work": {
             "companyName": "SKYBOLD",
@@ -3488,7 +3488,7 @@
           "gender": "female",
           "age": 34,
           "eyeColor": "green",
-          "email": "millicentbowers@skybold.com",
+          "email": "millicentbowers@skybold.me",
           "phone": "+1 (916) 436-2886",
           "work": {
             "companyName": "WAZZU",
